@@ -6,19 +6,28 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
+<div>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="height:32px" alt="html5 logo" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" style="height:32px" alt="css logo" />
 </div>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+<div>
+  <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="height:32px" alt="javascript logo" />
+  <img src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height:32px" alt="typescript logo" />
 </div>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img src="https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=white&style=for-the-badge" height="40" alt="solid logo"  />
+<div>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="height:32px" alt="react logo" />
+  <img src="https://img.shields.io/badge/Solid-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb" style="height:32px" alt="solidjs logo" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="height:32px" alt="express logo" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" style="height:32px" alt="mysql logo" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height:32px" alt="python logo" />
 </div>
 
 ###
@@ -29,9 +38,11 @@
 
 <div align="left">
   <a href="https://www.youtube.com/@zerful" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" style="height:32px" alt="youtube logo"  />
+  </a>
   <a href="https://www.twitch.tv/itszerful" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" style="height:32px" alt="twitch logo"  />
+  </a>
 </div>
 
 ###
