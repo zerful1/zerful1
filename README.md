@@ -2,7 +2,7 @@
 <img src="https://see.fontimg.com/api/rf5/m2Odx/NjYyMDBhNWUzYzQxNGM2NjljMzI1NzhjYWUzMWEwZTMub3Rm/emVyZnVs/runtime-regular.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=0F1419&tb=1&s=75" />
 </div> 
 
-###
+#
 
 <h3 align="center">𖤐 Currently Learning 𖤐</h3>
 
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="center" style="height:32px" alt="python logo" />
 </div>
 
-###
+#
 
 <h3 align="center">⭔ Socials ⭔</h3>
 
