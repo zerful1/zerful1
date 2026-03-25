@@ -2,13 +2,19 @@
   <picture>
     <!-- Light mode -->
     <source
-      srcset="https://see.fontimg.com/api/rf5/m2Odx/NjYyMDBhNWUzYzQxNGM2NjljMzI1NzhjYWUzMWEwZTMub3Rm/emVyZnVs/runtime-regular.png?r=fs&h=65&w=1000&fg=2a2a2a&bg=ffffff00&tb=1&s=75"
+      srcset="images/light-mode.png"
       media="(prefers-color-scheme: light)"
     >
     <!-- Dark mode -->
     <source
-      srcset="https://see.fontimg.com/api/rf5/m2Odx/NjYyMDBhNWUzYzQxNGM2NjljMzI1NzhjYWUzMWEwZTMub3Rm/emVyZnVs/runtime-regular.png?r=fs&h=65&w=1000&fg=ffffff&bg=00000000&tb=1&s=75"
+      srcset="images/dark-mode.png"
       media="(prefers-color-scheme: dark)"
+    >
+    <!-- Fallback -->
+    <img
+      src="images/light-mode.png"
+      width="500" height="auto"
+      alt="Top image"
     >
   </picture>
 </p>
