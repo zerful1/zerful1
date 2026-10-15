@@ -21,7 +21,7 @@
 
 #
 
-<h3 align="center">𖤐 Currently Learning 𖤐</h3>
+<h3 align="center">✮ Current Stack ✮</h3>
 
 ###
 
